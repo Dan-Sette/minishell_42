@@ -1,0 +1,9 @@
+./obj
+*.o
+minishell
+vgcore*
+.vscode
+compile_flags.txt
+tags
+xablau
+*.a
